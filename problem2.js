@@ -1,4 +1,4 @@
-let a=7
+let a=7;
 count=0;
 for(let i=1;i<=a;i++){
 if(a%i==0){
