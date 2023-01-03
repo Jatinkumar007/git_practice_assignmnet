@@ -1,5 +1,5 @@
 let a= "naman";
-let str=;
+let str="";
 for(b=a.length-1;b>=0;b--){
   str+=a[b];
 }
